@@ -38,19 +38,25 @@ Tenho interesse em trabalhar na Le Novo, atualmente estou fazendo o curso de vio
 
 ## Tema do Projeto
 ** Como em 3 minutos podemos entender seu Projeto !
-
 Pense como foi criar com seus colegas de sala para ser algo divertido e facil de fazer, sem muita pressão ou cobrança
 * **Precisa** ser algo simples de ler e sem muitas perguntas, Combinado!
-  
-
+* 
+  * Nós iremos fazer uma plataforma de biblioteca de jogos retrô. 
 ---
 
 ## Divisão de tarefas
 ** Quem ira ser responsavel por partes do projeto?
-Wilson
+
+* Wilson
+* 
 Não será escrito na pedra! Mas precisamos saber quem cuidou de cada parte e o "Segurar a cartolina" Não é parte das tarefas
 e sim todos devem pensar em como apresentar a continuação do outro.
-Guilherme; responsavel pelo Javascript, Tarso; paleta de cor e layout, Gustavo: será responsável pelas imagens, Wilson; será responsavel pelo html e css, Lilyth(eu); irei ajudar com o style,  Rhuan; também será responsável pelo style.
+* Guilherme; responsavel pelo Javascript,
+* Tarso; paleta de cor e layout,
+* Gustavo: será responsável pelas imagens,
+* Wilson; será responsavel pelo html e css,
+* Lilyth(eu); irei ajudar com o style,
+* Rhuan; também será responsável pelo style.
 
 * **Veja** que o Projeto não reponsabilidade de um mas sim de todos, um cuidando do outro!
 
