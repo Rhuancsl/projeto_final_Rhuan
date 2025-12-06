@@ -17,7 +17,7 @@ Vamos a mais uma conquista na sua formação profissional! Este documento resume
 * **Gustavo Rodrigues (Zecaa):** Sou Gustavo Rodrigues, conhecido como Zecaa, tenho 17 anos e estou estudando Web Design. Gosto muito da área de tecnologia e tenho facilidade para mexer em configurações de celulares e, de forma intermediária, em notebooks. No curso, já participei de projetos em grupo, como um quebra-cabeça digital e o design para uma farmácia, onde aprendi mais sobre **criação e trabalho em equipe**. Sou **dedicado**, **curioso** e sempre disposto a melhorar. Meu maior objetivo é conseguir um bom trabalho e proporcionar uma vida melhor para minha família, crescendo tanto profissionalmente quanto pessoalmente.
     * *Melhoria Profissional:* **Excelente detalhamento!** Mantenha o foco nos projetos concluídos (*quebra-cabeça digital*, *design para farmácia*) e nas *soft skills* (dedicação, curiosidade, trabalho em equipe).
 
-* **Tarso:** *Adicionar uma breve descrição focada em habilidades técnicas ou comportamentais, como a paixão por design ou a habilidade em solução de problemas.*
+* **~Tarso~:** *Adicionar uma breve descrição focada em habilidades técnicas ou comportamentais, como a paixão por design ou a habilidade em solução de problemas.*
 
 * **Rhuan:** *Adicionar uma breve descrição focada em habilidades técnicas ou comportamentais, como a atenção aos detalhes ou a habilidade de pesquisa.*
 
