@@ -19,7 +19,7 @@ Vamos a mais uma conquista na sua formação profissional! Este documento resume
 
 * **~Tarso~:** *Adicionar uma breve descrição focada em habilidades técnicas ou comportamentais, como a paixão por design ou a habilidade em solução de problemas.*
 
-* **Rhuan:** *Adicionar uma breve descrição focada em habilidades técnicas ou comportamentais, como a atenção aos detalhes ou a habilidade de pesquisa.*
+* **Rhuan:** sou Rhuan, um jovem determinado, com uma visão clara de melhoria contínua e evolução pessoal. Minhas Hard Skills estão em constante desenvolvimento na área de Web Design, Informática e Comunicação, enquanto minhas Soft Skills — como disciplina, proatividade, atenção aos detalhes e capacidade de pesquisa — me tornam um profissional comprometido em transformar esforço em resultados reais. Meu objetivo é sempre alcançar o próximo nível, aprendendo, evoluindo e construindo um caminho de excelência.
 
 * **Wilson:** *Adicionar uma breve descrição focada em habilidades técnicas ou comportamentais, como a capacidade de estruturar o código ou a liderança em tarefas.*
 
@@ -31,9 +31,9 @@ Vamos a mais uma conquista na sua formação profissional! Este documento resume
 
 Pense em como foi criar com seus colegas de sala para ser algo divertido e fácil de fazer, sem muita pressão ou cobrança.
 
-* **Nosso Projeto:** [Insira o nome do seu projeto aqui. Ex: "Landing Page Interativa para Divulgação de Jogos Retro"].
-* **A Ideia:** [Descreva o conceito de forma simples. Ex: Criamos uma página com foco em UX/UI minimalista para demonstrar nossos conhecimentos em HTML, CSS (layout responsivo) e JavaScript (filtragem de conteúdo).]
-* **O Diferencial:** [Fale sobre o que torna o projeto especial. Ex: A usabilidade intuitiva e o tema visualmente atraente do mundo retrô.]
+* **Nosso Projeto:** Retro Games Brasil
+* **A Ideia:** O trabalho foca na ideia de uma biblioteca de jogos antigos(Ex; Jogos da nintendo, jogos de ps2 e ps3 e etc...), e explica um pouco da história de cada um.
+* **O Diferencial:** A área de jogos antigos ultimamente nos ultimos tempos teem sido pouco comentada. Nós achamos a ideia ótima por conta que isso pode atrair novos publicos e até desertar um novo interesse em outras pessoas.
 
 *O resumo deve ser o "pitch" que a equipe faria em 3 minutos. Seja direto, combinando a tecnologia utilizada com o resultado visual/funcional.*
 
